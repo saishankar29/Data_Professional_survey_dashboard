@@ -48,7 +48,7 @@ The objective of this project is to analyze and visualize trends from the Data P
   - Determine how many professionals are actively seeking new roles and whether factors like salary, work culture, and remote work play a crucial role in job decisions.
   
 # Dashboard
-- <a href=>Dashboard</a>
+- <a href="https://saishankar29.github.io/Data_Professional_survey_dashboard/">Dashboard</a>
 ![Screenshot 2025-03-22 153234](https://github.com/user-attachments/assets/61cfd347-d7c5-4d95-a74d-6240ca108827)
 
 ![Screenshot 2025-03-22 153309](https://github.com/user-attachments/assets/6534a7a7-4dc3-4809-9a60-ea9b8a73b546)
